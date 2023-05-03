@@ -14,4 +14,4 @@ range.addEventListener('mousemove', function(e) {
     updateProcess(percent)
 })
 
-updateProcess(30)
+updateProcess(10)
