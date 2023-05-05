@@ -14,10 +14,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-image: url(7.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+    background: linear-gradient(to right, rgba(0,0,0,0.9),rgba(0,0,0,0.7)), url(7.jpg) no-repeat center/cover;
 }
 
 h1 {
